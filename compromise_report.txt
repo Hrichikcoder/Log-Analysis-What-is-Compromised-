@@ -1,0 +1,788 @@
+=========================================================
+      COMPROMISED ENDPOINTS SUMMARY REPORT
+=========================================================
+
+Total Compromised Endpoints Flagged: 248
+
+Endpoint ID: [EP2C4ZH5]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'nfffb.svc-736a73.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP2EVFKU]
+  [!] C2 Beacon: Connected to suspicious domains ['nd709.svc-53893f.gov.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP2SJ6NE]
+  [!] AV: Malicious file(s) quarantined: libreoffice-calc.desktop
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP2YUIUX]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP3GALVS]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n0733.svc-d21b43.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EP3JZO7Y]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP3PJJZF]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP3SKSVQ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP3XZALW]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n7386.svc-d93955.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EP3Z5SXV]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP3ZPBUE]
+  [!] C2 Beacon: Connected to suspicious domains ['nfaa3.svc-00e076.gov.example', 'www.svc-2d3d6f.gov.example', 'n6b10.svc-c8b313.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4C4STG]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4HZ33W]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4MZIBL]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4PGHIT]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-c207ea.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4RS3P7]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP4WW2QO]
+  [!] C2 Beacon: Connected to suspicious domains ['na128.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP4YIFHV]
+  [!] AV: Malicious file(s) quarantined: wallet_checkout_autofill_driver.js, wallet_donation_driver.js, bnpl.bundle.js, shopping_iframe_driver.js, wallet-buynow.bundle.js, miniwallet.bundle.js, c3f9c4a416e9e493005fc3f97adacbcf12956a81cc6c645d255fd023442c8120, webui-setup.js, load-ec-deps.bundle.js, load-ec-i18n.bundle.js, notification_fast.bundle.js, load-hub-i18n.bundle.js, crypto.bundle.js, bnpl_driver.js, notification.bundle.js, runtime.bundle.js, tokenized-card.bundle.js, app-setup.js, buynow_driver.js, edge_driver.js
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP55ZUGP]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP5DHOIP]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP5JYWEZ]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP5KBVLG]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'www.svc-f6088d.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP5NU2IP]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP5U5X2I]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP63QFAS]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP65VPYQ]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP67QOYP]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6D7K7J]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6HECD2]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EP6IKT5R]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'n7055.svc-becaa0.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6RMQC5]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4e3ba.gov.example', 'nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6SCJIM]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n2d33.svc-7a5486.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6TZCQ6]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6WDXYR]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP6WOB2Q]
+  [!] C2 Beacon: Connected to suspicious domains ['na128.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP7FLWZB]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP7FZ2XY]
+  [!] C2 Beacon: Connected to suspicious domains ['www.nbc6e.svc-ebcad2.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP7OWDTR]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'svc-c4f9a4.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EP7PCCYI]
+  [!] C2 Beacon: Connected to suspicious domains ['n0e96.svc-dd04f0.gov.example', 'n4b86.svc-7a02a3.gov.example', 'cdn.svc-c99754.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP7UYCXM]
+  [!] AV: Malicious file(s) quarantined: libeToken.so.10.7.77
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EP7XJK3C]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'www.svc-408b88.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPADG3JU]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPAGTKNF]
+  [!] AV: Malicious file(s) quarantined: Buy CP PLUS Dashboard Camera, Warranty NONE 1 year online _ Public Procurement Portal (PPP).pdf
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPAJI3E5]
+  [!] AV: Malicious file(s) quarantined: Lakeside traders.pdf, Lakeside traders.docx
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPALDFJP]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-0745cb.example']
+------------------------------------------------------------
+Endpoint ID: [EPAM6DF7]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPAPPPPN]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+------------------------------------------------------------
+Endpoint ID: [EPAR5TSH]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'www.n49d3.svc-06e1ac.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPARWEH7]
+  [!] C2 Beacon: Connected to suspicious domains ['n171f.svc-e45e1d.gov.example', 'n5e82.svc-e45e1d.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPAX5P5D]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPB5VWOI]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'svc-0745cb.example']
+------------------------------------------------------------
+Endpoint ID: [EPB7PFDD]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-6b0de2.example']
+------------------------------------------------------------
+Endpoint ID: [EPBG5SVE]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBIBHNA]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBIT7ZS]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n6b10.svc-c8b313.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBMNHPG]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPBMNRN7]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPBUUL45]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBVEPUN]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBWRBCV]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPBZVWPM]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPC2L3UH]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPC7TXDE]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'www.svc-9a4f01.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPCKIU6N]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPCLJGKA]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4e3ba.gov.example', 'na128.svc-c4f9a4.gov.example', 'n4937.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPCPSGXR]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPCQBKSG]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPCRFN4D]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'ndfd5.svc-1943de.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPD24DBC]
+  [!] USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:12
+  [!] USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:41
+  [!] USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:12
+  [!] USB: Suspicious mass storage 'abcd:1234' inserted at 22-09-2026 18:23:41
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+  [!] EVASION: Endpoint AV/Logging agent was forcibly disabled.
+------------------------------------------------------------
+Endpoint ID: [EPD3I3JF]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPD7B7DQ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPDO62BH]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPDR3POY]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPDRB236]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPDVCZ3P]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPDYIGF3]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPE4RO5I]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPE556O2]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'static.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPE7YMMO]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'svc-f3ab0c.example']
+------------------------------------------------------------
+Endpoint ID: [EPEEHWSG]
+  [!] AV: Malicious file(s) quarantined: Library Books.xlsx
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPELOQ73]
+  [!] C2 Beacon: Connected to suspicious domains ['n0cc7.svc-7000b3.gov.example', 'www.svc-01bd89.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPEPTYRN]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4e3ba.gov.example', 'svc-c4f9a4.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPEWYRFX]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPF4AJCM]
+  [!] AV: Malicious file(s) quarantined: libreoffice-calc.desktop
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPF5L3TA]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'time1.na754.svc-d6c357.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFE66OS]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFF7UHG]
+  [!] C2 Beacon: Connected to suspicious domains ['www.nbc6e.svc-ebcad2.gov.example', 'www.nb728.svc-2758f2.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFFTO5T]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-63c675.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFQEJS4]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFQSCDV]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPFV5FDB]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPFYWUMZ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4f9a4.gov.example', 'n6f33.svc-d93955.example', 'n9f9c.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPG52BAX]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPG67237]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGBKH56]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'svc-0745cb.example']
+------------------------------------------------------------
+Endpoint ID: [EPGHGYUU]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGHTVEF]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGJZAX6]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGN44A5]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6b10.svc-c8b313.gov.example', 'n22ce.svc-abaf98.example']
+------------------------------------------------------------
+Endpoint ID: [EPGPX2E7]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGQPYHM]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPGSQVEB]
+  [!] AV: Malicious file(s) quarantined: Final_Documents.zip
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPGW2NY4]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPH5P2EZ]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPHBRTQ2]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPHFTD5E]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'n6b10.svc-c8b313.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPHR4FSL]
+  [!] C2 Beacon: Connected to suspicious domains ['www.nbc6e.svc-ebcad2.gov.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPHXCFTB]
+  [!] C2 Beacon: Connected to suspicious domains ['www.nbc6e.svc-ebcad2.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPHXH7MS]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPI5GLUK]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPIBYMGG]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPIE7YGU]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'svc-c4f9a4.gov.example', 'www.svc-a729e9.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPIEJIZC]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPIEVJCR]
+  [!] C2 Beacon: Connected to suspicious domains ['n4fc4.svc-1b0aef.gov.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPIHPLA2]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n9f9c.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPIL2MXD]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPIXXNDT]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPIZFLLQ]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n9f9c.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPJ42VCZ]
+  [!] AV: Malicious file(s) quarantined: RAGHAV STNC STNA.pdf, RAGHAV STNA STNB.pdf
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n069b.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPJ76RZV]
+  [!] AV: Malicious file(s) quarantined: COMPRESSED FINAL COMPARISION RETIREES WELFARE1.xlsx
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPJ7BIHC]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-6b0de2.example']
+------------------------------------------------------------
+Endpoint ID: [EPJBGHPZ]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n1e52.svc-e45e1d.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPJCQSGS]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-c4f9a4.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPJJXRUF]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPJLQHJM]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'svc-634627.example']
+------------------------------------------------------------
+Endpoint ID: [EPJRQKEK]
+  [!] C2 Beacon: Connected to suspicious domains ['www.nfb0e.svc-c7c2ab.gov.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPJRRWOP]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPJTXZSB]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPJYEC7F]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'n0733.svc-d21b43.gov.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPKBJO66]
+  [!] C2 Beacon: Connected to suspicious domains ['static.svc-5603a2.example', 'n22ce.svc-72dec3.example', 'accounts.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPKJTRB2]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPKTB5NE]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPKYLAT4]
+  [!] C2 Beacon: Connected to suspicious domains ['n45ad.svc-1c3efe.gov.example', 'n22ce.nc0c7.svc-1d4e66.example', 'n9fa9.svc-e181bf.example']
+------------------------------------------------------------
+Endpoint ID: [EPKYURHG]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPL4KXNW]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n7055.svc-becaa0.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPL63W52]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPL7JJQY]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLDM6PE]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLFOXSS]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLHBJHI]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLKONPA]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLWNRA5]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPLZ6PWJ]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPM4M3ZE]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example', 'svc-bf2850.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPMDU6L5]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPME77ML]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPMINU2I]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPMQTKSL]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPMUW4SM]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'svc-c4f9a4.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPMVZYZO]
+  [!] AV: Malicious file(s) quarantined: mydoc-9.pdf, mydoc-75.pdf, mydoc-10.pdf, mydoc.pdf
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4f9a4.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPMY53PL]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'na128.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPN2FFTL]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPN6LGXP]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPNCY7H3]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-634627.example']
+------------------------------------------------------------
+Endpoint ID: [EPNGOVPF]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPNME2LP]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPNPX6VY]
+  [!] AV: Malicious file(s) quarantined: Microsoft.Practices.EnterpriseLibrary.Common.dll
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPNWM26Q]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPNXD2NI]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPNZ47AH]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPO7DU5Z]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPOC6Y4R]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+------------------------------------------------------------
+Endpoint ID: [EPPGWIOF]
+  [!] AV: Malicious file(s) quarantined: brprintconflsr3, rawtobr3
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPI5OVD]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n2d33.svc-7a5486.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPJ5DMQ]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPQ2PVU]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4f9a4.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPTT5KU]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPWQND4]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPPXBL74]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQ3UAYV]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'www.svc-e83fe0.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQ6H57A]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'svc-6b0de2.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQ6OARX]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQA4SVZ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQBJBDX]
+  [!] AV: Malicious file(s) quarantined: dash cam.pdf
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQEM443]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'svc-f3ab0c.example']
+------------------------------------------------------------
+Endpoint ID: [EPQHPXVS]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQISSR3]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n069b.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPQISY6K]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-0745cb.example', 'www.svc-7f2bdc.example']
+------------------------------------------------------------
+Endpoint ID: [EPQIWPBQ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPQKOBYG]
+  [!] AV: Malicious file(s) quarantined: win-lbp623-621-fw-v1301(1).exe
+  [!] C2 Beacon: Connected to suspicious domains ['n0cc7.svc-7000b3.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQMSMUV]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQOEF4W]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQPZCCJ]
+  [!] C2 Beacon: Connected to suspicious domains ['na128.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPQTJPGC]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPR3CJU6]
+  [!] C2 Beacon: Connected to suspicious domains ['nfaa3.svc-00e076.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPR4BEDS]
+  [!] AV: Malicious file(s) quarantined: recently-used.xbel
+  [!] C2 Beacon: Connected to suspicious domains ['n7055.svc-becaa0.gov.example', 'svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPR6HUBY]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPRD7FJT]
+  [!] AV: Malicious file(s) quarantined: 12th Plan Works Dashboard.pdf
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-0745cb.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPROB4NT]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'svc-9b4210.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPRWDOV2]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'n5584.svc-46426a.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPRYJZPO]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPRZ27TP]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+------------------------------------------------------------
+Endpoint ID: [EPSES7ZK]
+  [!] AV: Malicious file(s) quarantined: hp_LJ1020_Full_Solution-v2012_918_1_57980(1).exe
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPSJWX5J]
+  [!] AV: Malicious file(s) quarantined: Staff_Library_Payment_Final.docx
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPSMPJ6E]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example', 'svc-5d803b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPSRNMSV]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-c06b6c.gov.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPSUHSD5]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPT3KTUL]
+  [!] AV: Malicious file(s) quarantined: Dash Camera-49600.00.pdf
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n7473.svc-89bec8.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPT4VYZW]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPT7QLXR]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPTAGDTB]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n7055.svc-becaa0.gov.example', 'svc-0745cb.example']
+------------------------------------------------------------
+Endpoint ID: [EPTDOI6T]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPTMFZSX]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPTVIEOE]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPTX4FCZ]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPU5M2ZB]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPUJL36T]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-0745cb.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPUO3HHV]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-786c4b.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+------------------------------------------------------------
+Endpoint ID: [EPUP42UF]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'svc-c4f9a4.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPURTVI7]
+  [!] C2 Beacon: Connected to suspicious domains ['n5cfd.svc-7059b8.gov.example', 'svc-2d3d6f.gov.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPUTB7FS]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPUTH546]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPUVWNDY]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPUWQP4P]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'sso.svc-c4f9a4.gov.example', 'svc-aa88af.example']
+------------------------------------------------------------
+Endpoint ID: [EPV25MPO]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPV7MB2K]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'nffc7.svc-00e076.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPVC2P55]
+  [!] AV: Malicious file(s) quarantined: Data1.cab
+  [!] C2 Beacon: Connected to suspicious domains ['n45ad.svc-1c3efe.gov.example', 'www.svc-53de50.gov.example', 'static2.svc-53de50.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPVEKWWM]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'www.svc-b0b32a.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPVOVTRD]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPVSWBNA]
+  [!] AV: Malicious file(s) quarantined: launcher.exe, Strings.dll, zshp1020s.dll
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPVTGUK4]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPVU2V5T]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'n9fa9.svc-347513.example']
+------------------------------------------------------------
+Endpoint ID: [EPWADX3W]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-0745cb.example', 'n8040.svc-00e076.gov.example', 'svc-5d803b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPWEVZJP]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'n601b.svc-d93955.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPWGE25U]
+  [!] C2 Beacon: Connected to suspicious domains ['nfd46.ncc67.n0733.svc-12f40a.example', 'svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPWHYCYU]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPWNKSRM]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'n0340.svc-c8e1c5.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPWZ7L6L]
+  [!] AV: Malicious file(s) quarantined: ops-electron-app.desktop
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c4e3ba.gov.example', 'n2b40.svc-e557f1.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPX6YJD7]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPXHJLGU]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPXKHG4K]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPXQDYTY]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'sso.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPXVUZL4]
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'na128.svc-c4f9a4.gov.example', 'n32c5.svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPXWWCE7]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPXXUZPL]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'svc-786c4b.gov.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPY2ASSU]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'svc-1ca9c2.gov.example', 'svc-c06b6c.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPYG5XQP]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPYJFFRM]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPYLSVPL]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n9f9c.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPYRW5CW]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'svc-786c4b.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPYXIF66]
+  [!] C2 Beacon: Connected to suspicious domains ['n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example', 'www.svc-2d3d6f.gov.example']
+------------------------------------------------------------
+Endpoint ID: [EPZ4RN7K]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-c06b6c.gov.example', 'www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPZETVZS]
+  [!] C2 Beacon: Connected to suspicious domains ['n601b.svc-d93955.example', 'n6f33.svc-d93955.example', 'n069b.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPZJCG3R]
+  [!] C2 Beacon: Connected to suspicious domains ['n32c5.svc-c4f9a4.gov.example', 'svc-c4f9a4.gov.example', 'n6f33.svc-d93955.example']
+------------------------------------------------------------
+Endpoint ID: [EPZL6TNQ]
+  [!] C2 Beacon: Connected to suspicious domains ['svc-6b0de2.example', 'svc-c06b6c.gov.example', 'svc-0745cb.example']
+------------------------------------------------------------
+Endpoint ID: [EPZOABKY]
+  [!] C2 Beacon: Connected to suspicious domains ['www.svc-2d3d6f.gov.example', 'n22ce.svc-72dec3.example', 'www.n0733.svc-8e8375.example']
+------------------------------------------------------------
+Endpoint ID: [EPZQDT6J]
+  [!] C2 Beacon: Connected to suspicious domains ['n7055.svc-becaa0.gov.example', 'svc-c06b6c.gov.example', 'n22ce.svc-72dec3.example']
+------------------------------------------------------------
+Endpoint ID: [EPZRAPEL]
+  [!] AV: Malicious file(s) quarantined: 53EDA42869D426262B752F088EA605187284ACE8
+  [!] C2 Beacon: Connected to suspicious domains ['n4937.svc-c4f9a4.gov.example', 'svc-c06b6c.gov.example', 'svc-c4f9a4.gov.example']
+------------------------------------------------------------
